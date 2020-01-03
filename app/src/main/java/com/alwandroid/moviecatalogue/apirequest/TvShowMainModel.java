@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import cz.msebera.android.httpclient.Header;
 
 public class TvShowMainModel extends ViewModel {
-    private static final String API = "b9ad44145d0b26e0f040a71bd01ff23c";
+    private static final String API = "YOUR_API_KEY";
     private MutableLiveData<ArrayList<TvShowModel>> listTvShow = new MutableLiveData<>();
 
     public void setListMovies(){
