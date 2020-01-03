@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+
+    <string name="ratings">Ratings</string>
+    <string name="language">Language</string>
+    <string name="total_votes">Total Votes</string>
+    <string name="overview">Overview</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
